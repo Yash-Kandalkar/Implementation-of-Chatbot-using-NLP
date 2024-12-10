@@ -32,4 +32,4 @@ The chatbot is developed using a combination of natural language processing tech
 Although this chatbot may not have exceptional cognitive skills or be state-of-the-art, it was a great way for me to apply my skills and learn more about NLP and chatbot development. I hope this project inspires others to try their hand at creating their own chatbots and further explore the world of NLP.
 
 <h2>How to Use the Chatbot</h2>
-You can run the Chatbot.ipynb which also includes step by step instructions in Jupyter Notebook.
+You can run the <u>Chatbot.ipynb</u> which also includes step by step instructions in <u>Jupyter Notebook</u>.
