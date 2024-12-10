@@ -30,3 +30,6 @@ The chatbot is developed using a combination of natural language processing tech
 <p><a href="https://thecleverprogrammer.com/2023/03/27/end-to-end-chatbot-using-python/">I followed a guide referenced in the project</a> to learn the steps involved in creating an end-to-end chatbot. This included collecting data, choosing programming languages and NLP tools, training the chatbot, and testing and refining it before making it available to users.</p>
 
 Although this chatbot may not have exceptional cognitive skills or be state-of-the-art, it was a great way for me to apply my skills and learn more about NLP and chatbot development. I hope this project inspires others to try their hand at creating their own chatbots and further explore the world of NLP.
+
+<h2>How to Use the Chatbot</h2>
+You can run the Chatbot.ipynb which also includes step by step instructions in Jupyter Notebook.
