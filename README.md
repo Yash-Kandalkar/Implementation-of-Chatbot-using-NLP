@@ -20,3 +20,6 @@ The College Chatbot is a Python-based chatbot that utilizes machine learning alg
    <li>Streamlit </li>
   <li>JSON for intents data</li>
 </ul>
+
+<h2>Methodology</h2>
+The chatbot is developed using a combination of natural language processing techniques and machine learning algorithms. The methodology involves data preparation, model training, and chatbot response generation. The data is preprocessed to remove noise and increase training examples using synonym replacement. Multiple classification models are trained and evaluated to find the best-performing one. The trained model is then used to predict the intent of user input, and a random response is selected from the corresponding intent's responses. The chatbot is devoloped as a web application using Flask, allowing users to interact with it in real-time but yet to be deployed.
