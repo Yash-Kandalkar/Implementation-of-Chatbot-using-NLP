@@ -11,3 +11,12 @@ The College Chatbot is a Python-based chatbot that utilizes machine learning alg
    <li>College students can fetch particulars about placement activities. </li>
   <li>Understands various user intents such as greetings, farewells, gratitude, and more.</li>
 </ul>
+
+<h2>Technologies Used</h2>
+<ul>
+  <li>Python</li>
+   <li>NLTK</li>
+   <li>Scikit-learnScikit-learn</li>
+   <li>Streamlit </li>
+  <li>JSON for intents data</li>
+</ul>
