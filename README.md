@@ -18,7 +18,7 @@ The College Chatbot is a Python-based chatbot that utilizes machine learning alg
    <li>NLTK</li>
    <li>Scikit-learnScikit-learn</li>
    <li>Streamlit </li>
-  <li>JSON for intents data</li>
+
 </ul>
 
 <h2>Methodology</h2>
